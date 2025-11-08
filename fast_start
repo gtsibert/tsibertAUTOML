@@ -1,0 +1,4 @@
+from tsibertAUTOML import FastPyTorchAutoML
+
+automl = FastPyTorchAutoML()
+automl.train_on_folder('dataset/')
