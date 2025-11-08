@@ -1,0 +1,9 @@
+# Клонировать репозиторий
+git clone https://github.com/yourusername/olympiad-image-automl.git
+cd olympiad-image-automl
+
+# Установить зависимости
+pip install -r requirements.txt
+
+# Запустить пример
+python examples/basic_usage.py
